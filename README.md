@@ -28,6 +28,8 @@ Let's reinforce the Rezume, and make more.
 
 참고하자.
 
-https://github.com/devJang/developer-roadmap
+https://github.com/devJang/developer-roadmap   -> 웹 
 
-https://opentutorials.org/course/3083         -> 
+https://opentutorials.org/course/3083         -> 웹.
+
+https://opentutorials.org/course/2598         -> 리눅스.
