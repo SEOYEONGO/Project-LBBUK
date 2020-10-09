@@ -6,14 +6,14 @@
 
 ## Table of Contents
 
-* [ Project TIL ] (https://github.com/seoyeongo/project-TIL)
+* [Project TIL] (https://github.com/seoyeongo/project-TIL)
 
-* [ Resume ](#My-Resume)
+* [Resume](#My-Resume)
 
 ---
 
 ## My-Resume
 
-[ portfolio site ] (https://seoyeongo.site)
+[portfolio site] (https://seoyeongo.site)
 
 Let's reinforce the Rezume, and make more.
