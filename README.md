@@ -14,4 +14,6 @@
 
 ## My-Resume
 
-Let's make it.
+[ portfolio site ] (https://seoyeongo.site)
+
+Let's reinforce the Rezume, and make more.
