@@ -35,7 +35,7 @@ Thank you Moon Bong-oh, for helping me with this great project.
 
 ## My-Resume
 
-* [portfolio site] (https://seoyeongo.site)  - need reinforce
+* [portfolio site](https://seoyeongo.site)  - need reinforce
 * [한글 Resume](/Resume/Resume.pdf) - need reinforce
 
 Let's reinforce the Rezume, and make more.
