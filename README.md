@@ -20,6 +20,8 @@ Thank you Moon Bong-oh, for helping me with this great project.
 
 * [Project TIL](https://github.com/seoyeongo/project-TIL) -공부한 내용을 아웃풋하기 위한 것. 여러번 반복해서 보기 위한 것.
 
+* [Other](#Other) - 참고용 사이트. **모아놓는다고 해서 좋은 것이 아니다. 내가 써먹고 내것으로 만들어야 한다.**
+
 * [Resume](#My-Resume)
 ---
 ## About-Project
@@ -28,14 +30,7 @@ Thank you Moon Bong-oh, for helping me with this great project.
 + 공부한 내용을 결과물로 내기 위해
                    // 내 머리 속만 있는 것 <<<<<<<<<<<<<<< 결과물로 만드는 것. 아웃풋을 잘하는 사람이 되자. 되고 싶다고 생각했으면 그에 가까워 지기 위한 노력을 하자.
 
----
 
-## My-Resume
-
-* [portfolio site](https://seoyeongo.site)  - need reinforce
-* [한글 Resume](/Resume/Resume.pdf) - need reinforce
-
-Let's reinforce the Rezume, and make more.
 
 ---
 
@@ -82,3 +77,13 @@ ________________________________________________________________________________
 
 4. https://algorithm-visualizer.org/backtracking/n-queens-problem
 
+
+---
+---
+
+## My-Resume
+
+* [portfolio site](https://seoyeongo.site)  - need reinforce
+* [한글 Resume](/Resume/Resume.pdf) - need reinforce
+
+Let's reinforce the Rezume, and make more.
